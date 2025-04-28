@@ -1,0 +1,24 @@
+header{
+  text-align: center;
+}
+.read-more-btn {
+    background-color: #4CAF50; /* لون الخلفية */
+    color: white; /* لون النص */
+    padding: 10px 20px; /* الحواف الداخلية */
+    text-align: center; /* محاذاة النص */
+    text-decoration: none; /* إزالة التسطير */
+    display: inline-block; /* جعل الزر في سطر واحد */
+    font-size: 16px; /* حجم الخط */
+    border-radius: 5px; /* الحواف الدائرية */
+    transition: background-color 0.3s; /* تأثير عند التمرير */
+}
+
+.read-more-btn:hover {
+    background-color: #45a049; /* تغيير اللون عند التمرير */
+}
+h1{
+  text-align: center;
+}
+body{
+  background-color: turquoise;
+}
